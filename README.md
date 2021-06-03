@@ -8,7 +8,7 @@ Three commands to get you creating frontend applications connected to DFINITY ca
 
 ### 1. Clone this repository
 
-`git clone https://github.com/taylorham/cra-template-dfx.git`
+`git clone https://github.com/jakepeg/cra-template-dfx.git`
 
 ### 2. Create an app
 
